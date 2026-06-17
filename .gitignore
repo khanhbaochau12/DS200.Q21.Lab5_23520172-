@@ -1,0 +1,6 @@
+.env
+secrets/
+videos/*.mp4
+__pycache__/
+*.pyc
+*.pt
